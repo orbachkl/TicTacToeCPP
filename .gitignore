@@ -1,0 +1,8 @@
+*.obj
+*.tlog
+*.log
+*.lastbuildstate
+Debug/TicTacToeCPP.pdb
+Debug/TicTacToeCPP.ilk
+Debug/vc110.idb
+Debug/vc110.pdb
